@@ -1,23 +1,23 @@
 # NTHU 109Fall Nachos
 
-## Homework1 System call
+## Homework 1 System call
 + Implment 4 system call
     1. Open
     2. Write
     3. Read
     4. Close
 
-## Homework2 Multi-Programming
+## Homework 2 Multi-Programming
 + Implment page table
     1. Modify its memory management code to make NachOS support multi-programming
 
-## Homework3 CPU scheduling
+## Homework 3 CPU scheduling
 + Implement Multi-level feedback queue scheduler with aging mechanism
     1. L1: preemptive Shortest Job First
     2. L2: non-preemptive priority scheduling
     3. L3: Round-robin scheduling
 
-## Homework4 File system
+## Homework 4 File system
 + Implement Five system call
     1. Create
     2. Open
