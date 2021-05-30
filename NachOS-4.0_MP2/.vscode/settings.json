@@ -1,0 +1,10 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "*.tcc": "cpp",
+        "initializer_list": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "limits": "cpp"
+    }
+}
